@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br"> 
+<head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Document</title>
+    <!--css interno, algumas tags mais usadas e varias coisas aleatórias-->
+
+    <!--bloco de fonte roboto-condensed-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+     <!--bloco de fonte roboto-condensed-->
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+HR+Lijeva:wght@100..400&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <style> /*quando o style está dentro do html ele é chamado de CSS interno*/ 
+        #titulo-principal { /*o # identifica um seletor de id*/
+            color: blue;
+        }
+
+        .destaque-paragrafo { /*o . identifica o seletor de classe*/
+            color: rgb(106, 106, 1);
+            text-decoration: underline;
+        }
+
+        #borda {
+            border: 10px solid coral;
+            padding: 10px;
+            text-align: center; 
+        }
+
+        #bloco-paragrafos {
+            font-size: 18px;
+            text-align: center;
+            padding: 50px;
+        }
+/*bloco de fonte roboto-condensed*/
+        .roboto-condensed {
+        font-family: "Roboto Condensed", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 100px;
+        font-style: normal;
+        color: #3bd41c; 
+        }
+/*bloco de fonte playwrite-hr-lijeva*/
+        .playwrite-hr-lijeva {
+        font-family: "Playwrite HR Lijeva", cursive;
+        font-optical-sizing: auto;
+        font-weight: 100px;
+        font-style: normal;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="borda"> <!--DIV criar um bloco de divisão generico e sem valor semantico | do tipo block-->
+        <h1 id="titulo-principal">Olá eu sou um h1 dentro do html.</h1>
+        <p id="prmeiro-paragrafo">Olá, eu <strong class="destaque-paragrafo">sou</strong> um parágrafo.</p>
+    </div>
+    <h2 id="titulo-secundario">Olá, eu sou um h2, um texto menor que o h1.</h2>
+    <div id="bloco-paragrafos">
+        <p> <strong>"porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</strong></p>
+    
+        <p class="roboto-condensed">
+            Lorem ipsum dolor sit amet. Aut molestiae deserunt ex quaerat dolor qui corporis veniam. Est officia 
+            dignissimos eos nemo nulla sed aspernatur incidunt. Aut nesciunt quisquam et quam ipsa qui inventore 
+            consequatur ut perspiciatis dolorum non laboriosam velit eos rerum provident et galisum porro. 
+            Qui atque odit cum quis dignissimos et reprehenderit officiis in officiis officia sit Quis ratione!
+        </p>
+        <p> 
+            Ut eligendi facilis eum voluptate similique ut nisi earum a voluptatum debitis et ducimus sint eos itaque 
+            quibusdam et molestiae maiores. In excepturi molestias cum praesentium culpa ex quis nihil qui fuga impedit 
+            qui vero aliquid. Et voluptate doloribus est quia accusamus sit asperiores eaque quo velit odit et dolores minus.
+            Ea fugiat accusamus et deserunt mollitia sed quaerat voluptatum ad esse deserunt qui enim reiciendis et incidunt 
+            minima aut quia galisum.
+        </p>
+        <p class="playwrite-hr-lijeva">
+            Eos dicta maiores est minus perferendis ea inventore quaerat. Et voluptatem galisum et esse corporis qui rerum quidem?
+            Ut rerum consequatur 33 quis consequatur qui eaque placeat eum voluptas aliquam eum incidunt optio ut Quis reprehenderit. 
+            Rem atque dolorem ut dolorem nobis hic voluptate sunt hic incidunt pariatur.
+        </p>
+    </div>
+
+</body>
+</html> 
