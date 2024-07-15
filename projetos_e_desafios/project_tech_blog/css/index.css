@@ -7,7 +7,7 @@
 body {
     font-size: 1em;
     font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
-    background-color: #e6e6e6;
+    background-color: #dadada;
 }
 
 /*Layout*/
@@ -24,6 +24,12 @@ h1 {
 
 h2 {
     color: #f7b600;
+}
+
+h3 {
+    color: #565656;
+    background: #ccc;
+    padding: 10px;
 }
 
 .branco {
@@ -59,7 +65,7 @@ a:hover {
 }
 
 #area-principal {
-    background-color: #8a4242;
+    background-color: #e4e3e3;
     width: 920px;
     margin: 0 auto;
     padding: 15px;
@@ -67,20 +73,19 @@ a:hover {
 
 #area-postagens {
     width: 660px;
-    background-color: aqua;
     float: left;
 }
 
 .postagem {
     padding: 20px;
     margin-bottom: 20px;
-
+    background-color: #ffffff;
 }
 
 .data-postagem {
     font-size: 0.8em;
     display: block;
-    border-bottom: 1px solid #f4f4f4;
+    border-bottom: 1px solid #f8e9bf;
     padding-bottom: 10px;
     margin-bottom: 10px;
 }
@@ -91,8 +96,24 @@ p {
 
 #area-lateral {
     width: 240px;
-    background-color: #ffffff;
     float: right;
+}
+
+.conteudo-lateral {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.postagens-recentes {
+    font-size: 0.9em;
+    padding: 5px 0;
+    border-bottom: 1px solid #f8e9bf;
+}
+
+.link-categorias {
+    display: block;
+    padding: 2px 5px;
 }
 
 #area-rodape {
