@@ -21,3 +21,5 @@
 |   | ...retomando | | 
 | 4 | 13/07/2024 | Projeto TecBloc com HTML e CSS Inicio | 02:00:00 |
 | 5 | 14/07/2024 | Projeto TecBloc com HTML e CSS Conclusão | 01:30:00 |
+| 6 | 15/07/2024 | CSS3 - Seletores, herança e especificidade | 00:30:00 |
+| 7 | 16/07/2024 | Barras de navegação e layout | 00:00:00 |
