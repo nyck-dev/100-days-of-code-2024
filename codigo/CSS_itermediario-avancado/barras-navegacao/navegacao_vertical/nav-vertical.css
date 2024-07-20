@@ -1,0 +1,40 @@
+/* ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding: 5px 20px;
+    background: url(./imagens/seta.png) no-repeat left center;
+} */
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul a {
+    /* border: 1px solid red; */
+    color: black;
+    width: 200px;
+    height: 40px;
+    display: block;
+    background: #f7b600 url(./imagens/menu.png) no-repeat left bottom;
+    text-decoration: none;
+    line-height: 40px;
+    text-indent: 40px;
+}
+
+a:hover {
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
+}
+
+#mark-navegacao #home a, #mark-navegacao #sobre a {
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
+}
