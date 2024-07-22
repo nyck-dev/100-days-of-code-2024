@@ -26,4 +26,7 @@
 | 8 | 17/07/2024 | Falhei | 00:00:00 |
 | 9 | 18/07/2024 | Falhei | 00:00:00 |
 |   | ...retomando | | 
-| 8 | 19/07/2024 | Barra de navegação vertical e horizontal | 02:25:00 |
+| 8 | 19/07/2024 | Barra de navegação vertical| 01:30:00 |
+| 9 | 20/07/2024 | Falhei | 00:00:00 |
+|   | ...retomando | | 
+| 9 | 21/07/2024 | Barra de bavegação horizontal | 00:01:00 |
