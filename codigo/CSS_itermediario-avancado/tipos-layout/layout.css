@@ -16,6 +16,19 @@ body {
     text-align: center;
     line-height: 100px; 
 }
+
+#principal {
+    width: 200px;
+    float: right;
+    border: solid 1px red;
+}
+
+#secundario {
+    width: 300px;
+    float: left;
+    border: solid 1px red;
+}
+
 #conteudo {
     width: 520px;
     float: right;
