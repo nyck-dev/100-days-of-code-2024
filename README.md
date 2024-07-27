@@ -31,4 +31,7 @@
 |    | ...retomando | | 
 | 9  | 21/07/2024 | Barra de bavegação horizontal | 00:01:00 |
 | 10 | 22/07/2024 | Tipos de layouts | 00:00:30 |
-| 10 | 23/07/2024 | Tipos de layouts | 00:00:20 |
+| 11 | 23/07/2024 | Tipos de layouts | 00:00:20 |
+| 12 | 24/07/2024 | Falhei | 00:00:00 |
+| 13 | 25/07/2024 | Falhei | 00:00:00 |
+|    | ...retomando | | 
