@@ -35,3 +35,9 @@
 | 12 | 24/07/2024 | Falhei | 00:00:00 |
 | 13 | 25/07/2024 | Falhei | 00:00:00 |
 |    | ...retomando | | 
+
+retomando após um mês de pausa...começando do inicio porque regra é regra
+
+| DIA | DATA | CONTEÚDO ESTUDADO | TEMPO |
+| :---: | --- | --- | --- |
+| 1  | 24/08/2024 | preencher | 00:30:38  |
